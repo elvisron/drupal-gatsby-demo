@@ -5,7 +5,7 @@ module.exports = {
     {
       resolve: "gatsby-source-drupal",
       options: {
-        baseUrl: "https://dev-gatsby-drupal-demo-lwj.pantheonsite.io",
+        baseUrl: "http://dev-myappdemo.pantheonsite.io/",
         // preview: true
       },
     },
